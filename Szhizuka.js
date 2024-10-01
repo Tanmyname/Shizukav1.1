@@ -1,3 +1,4 @@
+//Shizuka v1.1
 //Free source code Sc Shizuka 
 //Creator By @ Tan source code by @ Fernazer
 // You can help me by making a donation
@@ -3157,7 +3158,7 @@ break
                             {
 
                       name: "cta_url",
-                      buttonParamsJson: `{"display_text":"Donate","url":"http://localhost:8158/index.html","merchant_url":"http://localhost:8158/index.html"}`
+                      buttonParamsJson: `{"display_text":"Github","url":"https://github.com/Tanmyname","merchant_url":"https://github.com/Tanmyname"}`
               }
            ],
           }),
