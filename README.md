@@ -1,5 +1,5 @@
 # Shizuka-Md WhatsApp Bot V1.1
-![alt text](https://github.com/Tanmyname/Cli_tols/blob/main/icon.png?raw=true)
+![alt text](https://github.com/Tanmyname/Shizukav1.1/blob/main/icon.png?raw=true?raw=true)
 ## How to run a Bot on Termux :
 
 **STEP 1**
